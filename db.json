@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Understanding JavaScript Closures",
+      "author": "John Dow",
+      "date": "2024-10-01",
+      "content": " JavaScript closures are a fundamental concept for mastering the language. They allow functions to access variables outside their immediate scope. ",
+      "imageUrl": "https://picsum.photos/seed/new-image/600/400",
+      "comments": []
+    },
+    {
+      "id": "2",
+      "title": "Getting Started with React Hooks",
+      "author": "Alice Green",
+      "date": "2024-09-15",
+      "content": "React Hooks have revolutionized the way we write functional components. In this post, we'll explore useState and useEffect in detail.",
+      "imageUrl": "https://picsum.photos/seed/react-hooks/600/400",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Chris Brown",
+          "date": "2024-09-16",
+          "content": "Thanks for the guide! Hooks are amazing once you get used to them."
+        },
+        {
+          "id": 2,
+          "author": "Sara Lee",
+          "date": "2024-09-17",
+          "content": "Can you also cover useContext in your next post?"
+        },
+        {
+          "id": 3,
+          "author": "Tom Wilson",
+          "date": "2024-09-18",
+          "content": "I wish I had known about hooks earlier; they make my code so much cleaner!"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "CSS Flexbox vs. Grid: Which One to Use?",
+      "author": "Emily White",
+      "date": "2024-08-20",
+      "content": "CSS Flexbox and Grid are powerful tools for layout design. Flexbox is perfect for 1-dimensional layouts, while Grid excels in 2-dimensional designs.",
+      "imageUrl": "https://picsum.photos/seed/css-flexbox-grid/600/400",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Paul Adams",
+          "date": "2024-08-21",
+          "content": "This is a helpful comparison! I often struggle to choose between the two."
+        },
+        {
+          "id": 2,
+          "author": "Lisa King",
+          "date": "2024-08-22",
+          "content": "I prefer Flexbox for simple layouts and Grid for complex ones. Thanks for the breakdown!"
+        }
+      ]
+    },
+    {
+      "id": "ab08",
+      "title": "Test JavaScript Closures",
+      "author": "John Doe",
+      "date": "2024-10-01",
+      "imageUrl": "https://picsum.photos/seed/react-hooks/600/400",
+      "content": "JavaScript closures are a fundamental concept for mastering the language. They allow functions to access variables outside their immediate scope.",
+      "comments": []
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Alice Green",
+      "email": "alice.green@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Emily White",
+      "email": "emily.white@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Mark Johnson",
+      "email": "mark.johnson@example.com"
+    }
+  ]
+}
